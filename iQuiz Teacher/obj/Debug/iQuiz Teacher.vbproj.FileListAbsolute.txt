@@ -1,0 +1,83 @@
+Z:\Programming\GradeMe\GradeMe\bin\Debug\iQuiz.exe.config
+Z:\Programming\GradeMe\GradeMe\bin\Debug\iQuiz.exe
+Z:\Programming\GradeMe\GradeMe\bin\Debug\iQuiz.pdb
+Z:\Programming\GradeMe\GradeMe\bin\Debug\iQuiz.xml
+Z:\Programming\GradeMe\GradeMe\bin\Debug\Interop.WMPLib.dll
+Z:\Programming\GradeMe\GradeMe\bin\Debug\AxInterop.WMPLib.dll
+Z:\Programming\GradeMe\GradeMe\obj\Debug\ResolveAssemblyReference.cache
+Z:\Programming\GradeMe\GradeMe\obj\Debug\Interop.WMPLib.dll
+Z:\Programming\GradeMe\GradeMe\obj\Debug\AxInterop.WMPLib.dll
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz Teacher.vbproj.ResolveComReference.cache
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.AboutBox1.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.iQuiz.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.ImageDragTest.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.Matching.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.Names.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.NewForm.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.Resources.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.NewPic.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.NewVidAud.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.OpenQuiz.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.Question.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.TakeQuiz.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.TitleorText.resources
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz Teacher.vbproj.GenerateResource.Cache
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.exe
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.xml
+Z:\Programming\GradeMe\GradeMe\obj\Debug\iQuiz.pdb
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\bin\Debug\iQuiz.exe.config
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\bin\Debug\iQuiz.exe
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\bin\Debug\iQuiz.pdb
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\bin\Debug\iQuiz.xml
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\bin\Debug\AxInterop.WMPLib.dll
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\bin\Debug\Interop.WMPLib.dll
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\ResolveAssemblyReference.cache
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\Interop.WMPLib.dll
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\AxInterop.WMPLib.dll
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz Teacher.vbproj.ResolveComReference.cache
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.AboutMe.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.iQuizTeacher.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.ImageDragTest.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Matching.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Names.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.NewForm.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Resources.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.NewPic.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.NewVidAud.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.OpenQuiz.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Question.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Register.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Splash.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.TitleorText.resources
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz Teacher.vbproj.GenerateResource.Cache
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.exe
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.xml
+Z:\Programming\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.pdb
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\bin\Debug\iQuiz.exe.config
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\Interop.WMPLib.dll
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz Teacher.vbproj.ResolveComReference.cache
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.exe
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.xml
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.pdb
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz Teacher.vbprojResolveAssemblyReference.cache
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.AboutMe.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.iQuizTeacher.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.ImageDragTest.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Matching.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Names.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.NewForm.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Resources.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.NewPic.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.NewVidAud.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.OpenQuiz.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Question.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Register.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.Splash.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz.TitleorText.resources
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\obj\Debug\iQuiz Teacher.vbproj.GenerateResource.Cache
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\bin\Debug\iQuiz.exe
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\bin\Debug\iQuiz.pdb
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\bin\Debug\iQuiz.xml
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TJN\Desktop\iQuiz Source Code\iQuiz Teacher\iQuiz Teacher\bin\Debug\Interop.WMPLib.dll
